@@ -6,3 +6,4 @@
 1. Читать glossary.md
 2. Разбирать examples.md
 3. Смотреть sources.md
+- questions.md — вопросы для самопроверки
