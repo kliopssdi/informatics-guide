@@ -1,2 +1,3 @@
-# Informatics guide
-Topic: number systems
+# Справочник: Системы счисления
+
+Тема: Системы счисления
